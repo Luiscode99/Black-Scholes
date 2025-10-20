@@ -31,4 +31,4 @@ Zusätzlich habe ich die Sensitivitätskennzahlen **Delta** und **Gamma** ("Grie
 
 Der Code ist in einem Jupyter Notebook (`.ipynb`) dokumentiert. Einfach das Repository klonen und die benötigten Pakete installieren:
 
-`pip install -r requirements.txt`
+`pip install -r requirements1.txt`
