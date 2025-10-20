@@ -23,7 +23,7 @@ Die Implementierung berechnet den Preis einer europäischen Call-Option korrekt.
 Zusätzlich habe ich die Sensitivitätskennzahlen **Delta** und **Gamma** ("Griechen") numerisch angenähert, was die praktischen Anwendungsmöglichkeiten des Modells im Hedging und Risikomanagement zeigt.
 
 ![Plot der Konvergenz des Binomialmodells](httpstps://i.imgur.com/Binominalmodell.png)
-*(Auch hier passt ein Screenshot deines Konvergenz-Plots perfekt)*
+
 
 ---
 
